@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'CROCOVideoBackground_Example', :exclusive => true do
+  pod "CROCOVideoBackground", :path => "../"
+end
+
+target 'CROCOVideoBackground_Tests', :exclusive => true do
+  pod "CROCOVideoBackground", :path => "../"
+
+  pod 'FBSnapshotTestCase'
+end

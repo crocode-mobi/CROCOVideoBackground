@@ -1,0 +1,21 @@
+PODS:
+  - CROCOVideoBackground (1.0.0)
+  - FBSnapshotTestCase (2.0.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.0.4)
+  - FBSnapshotTestCase/Core (2.0.4)
+  - FBSnapshotTestCase/SwiftSupport (2.0.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CROCOVideoBackground (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CROCOVideoBackground:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CROCOVideoBackground: 2772a0cfdc1ee127c80a85928dd5678af8f95683
+  FBSnapshotTestCase: d94cf34841c9e77390e29009e8e2713479d48753
+
+COCOAPODS: 0.35.0
