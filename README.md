@@ -7,9 +7,9 @@ CROCOVideoBackground class is a Objective C category that expand from UIView. It
 
 # Installation
 
-## Cocoapods
+## CocoaPods
 
-Install Cocoapods if need it
+Install CocoaPods if need it
 
 ```bash
 $ gem install cocoapods
